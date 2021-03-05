@@ -1,5 +1,5 @@
 <p align="center">
-  src="ReconPip.logo">
+  src="ReconPip.logo.png">
 </p>
 
 
